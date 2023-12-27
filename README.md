@@ -3,8 +3,7 @@
 Credit Risk Report:
 
 
-Purpose of Analysis
-The objective of the analysis was to determine the predictive power of the logistic regression model between loans claassified as '0' for healthy loans and '1' for high risk loans using original dataset. 
+Purpose of Analysis was to determine the predictive power of the logistic regression model between loans claassified as '0' for healthy loans and '1' for high risk loans using original dataset. 
 
 The Dataset:
 The dataset includes columns loan size, interest rate, income of borrowers, debt to income ratio,number of accounts, derogatory remarks, loan status and total debt. The model was trained to predit loan ststus, classified into `0` (healthy loan) and `1` (high-risk loan) labels?
