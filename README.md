@@ -1,8 +1,9 @@
 # credit-risk-classification
 
-Credit Risk Report
-Overview of the Analysis
-Purpose:
+Credit Risk Report:
+
+
+Purpose of Analysis
 The objective of the analysis was to determine the predictive power of the logistic regression model between loans claassified as '0' for healthy loans and '1' for high risk loans using original dataset. 
 
 The Dataset:
